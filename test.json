@@ -1,4 +1,5 @@
 {
 "name": "foo",
-"pass": "bar"
+"pass": "bar",
+"email": "foo@bar.com"
 }
