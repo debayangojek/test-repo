@@ -2,4 +2,5 @@
 "name": "foo",
 "pass": "bar",
 "email": "foo@bar.com"
+"address": "123"
 }
